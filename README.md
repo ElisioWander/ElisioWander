@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá! Eu sou o Elisio Wander, estudante de Programação Web!
+## Olá! Eu sou o Elisio Wander, desenvolvedor front-end!
 <div align="center">
   <a href="https://github.com/elisioWander">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisioWander&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
