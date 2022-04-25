@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 👯 Em busca do meu primeiro emprego 🤞
 - 📫 Podem entrar em contato comigo via whatsapp ou email
 
+
 <div align="center">
   <a href="https://github.com/elisioWander">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisioWander&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
