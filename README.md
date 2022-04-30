@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá! Eu sou o Elisio Wander, desenvolvedor front-end!
+## Olá! Me chamo Elisio 👋
+# Desenvolvedor front-end
 
 - 🌱 Estou constantemente evoluindo nas minhas habilidades como front-end
 - 👯 Em busca do meu primeiro emprego 🤞
