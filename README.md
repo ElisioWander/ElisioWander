@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Elisio-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="Elisio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elisio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Elisio-Tailwind" height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
   
   ##
  
