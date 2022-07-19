@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Olá! Me chamo Elisio 👋
 ### Desenvolvedor front-end
 
-- 🌱 Estou constantemente evoluindo nas minhas habilidades como front-end
+- 🌱 Estou constantemente evoluindo nas minhas habilidades como desenvolvedor
 - 👯 Em busca do meu primeiro emprego 🤞
 - 📫 Podem entrar em contato comigo via whatsapp ou email
 
