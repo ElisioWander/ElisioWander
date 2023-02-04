@@ -34,7 +34,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Elisio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Elisio-Tailwind" height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
   <img align="center" alt="Elisio-Jest" height="30" width="40" src="https://www.svgrepo.com/show/373700/jest.svg">
-  <img align="center" alt="Elisio-Jest" height="30" width="40" src="https://www.svgrepo.com/show/354310/sass.svg">
   <img align="center" alt="Elisio-Redux" height="30" width="40" src="https://www.svgrepo.com/show/303557/redux-logo.svg">
   <img align="center" alt="Elisio-Redux" height="30" width="40" src="https://www.svgrepo.com/show/306811/styled-components.svg">
   
