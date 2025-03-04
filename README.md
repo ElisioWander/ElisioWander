@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Desenvolvedor front-end
 
 - 🌱 Estou constantemente evoluindo nas minhas habilidades como desenvolvedor
-- 📫 Podem entrar em contato comigo via whatsapp, email ou linkedIn
+- 📫 Podem entrar em contato comigo via whatsapp (32 999847074), email ou linkedIn
 
 
 <div align="center">
